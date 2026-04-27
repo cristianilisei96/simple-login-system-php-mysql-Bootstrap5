@@ -89,3 +89,45 @@ $pass = '';
 If using Laragon:
 
 http://localhost/simple-login-system-php-mysql-Bootstrap5
+
+
+🔐 Security Notes
+Passwords are hashed using password_hash()
+
+Sessions protect authenticated pages
+
+Prepared statements prevent SQL Injection
+
+Email uniqueness enforced at database level
+
+Folder structure:
+/config
+    database.php
+/includes
+    header.php
+    footer.php
+/screenshots
+    *.png
+index.php
+login.php
+register.php
+logout.php
+README.md
+
+TODO (Future Improvements)
+Add CSRF protection
+
+Add password reset functionality
+
+Add admin panel
+
+Add profile page
+
+Add email verification
+
+Improve form validation
+
+
+
+📄 License
+This project is open-source and free to use for learning purposes.
