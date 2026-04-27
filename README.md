@@ -12,7 +12,7 @@
 ## After registration
 <img width="2559" height="1439" alt="after-registration" src="https://github.com/user-attachments/assets/e0907fbc-bb1a-493f-95d4-7d15417958c5" />
 
-## Regsiter page filled
+## Login page filled
 <img width="2559" height="1439" alt="after-registration-filled" src="https://github.com/user-attachments/assets/f72cca8d-5e8b-455d-833d-4fe7982eef4c" />
 
 ## After login
